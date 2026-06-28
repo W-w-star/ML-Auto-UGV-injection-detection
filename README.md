@@ -1,5 +1,5 @@
 # ML-Auto-UGV-injection-detection
-An Machine Learning Solution for Detecting and Classifying Autonomous Robotic Ground Navigation Against False Message Injection Cyberattacks
+A Machine Learning-powered Solution for Safe Autonomous Robotic Ground Navigation in Cyber-contested Environments.
 
 ### Dataset Collection
 This folder contains the codes of control the robot in simulation and Datasets.
