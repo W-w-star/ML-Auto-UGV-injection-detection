@@ -23,5 +23,5 @@ This folder contains the video examples of attack.
 This folder contains three snapshots during live detection and decision
 
 1. Authentic
-2. Authentic + PM attack
-3. Authentic + VD attack
+2. Authentic injected with PM 
+3. Authentic injected with VD 
