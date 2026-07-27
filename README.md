@@ -17,4 +17,11 @@ This folder contains the code for hyperparameters and training. These models are
 5.Support Vector Machine
 
 ### Attack Visualization
-This folder contains the vedio examples of attack.
+This folder contains the video examples of attack.
+
+### Real-time Experimentations
+This folder contains three snapshots during live detection and decision
+
+1. Authentic
+2. Authentic + PM attack
+3. Authentic + VD attack
